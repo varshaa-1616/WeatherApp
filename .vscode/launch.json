@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "WeatherApp",
+            "classPaths": [
+                "C:/Users/Varsha/OneDrive/Desktop/weather/lib/json-20210307-javadoc.jar",
+                "C:/Users/Varsha/OneDrive/Desktop/weather/lib/okhttp-3.0.0-RC1.jar",  // Replace <version> with the actual version number
+                "C:/Users/Varsha/OneDrive/Desktop/weather/lib/okio-1.0.0.jar"     // If needed, replace with the correct version number
+            ]
+        }
+    ]
+}
